@@ -1,0 +1,12 @@
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\bin\Debug\net5.0\LibFiles.deps.json
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\bin\Debug\net5.0\LibFiles.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\bin\Debug\net5.0\ref\LibFiles.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\bin\Debug\net5.0\LibFiles.pdb
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.AssemblyInfo.cs
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\ref\LibFiles.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.pdb
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\LibFiles\obj\Debug\net5.0\LibFiles.csproj.AssemblyReference.cache

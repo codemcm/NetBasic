@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FileReadWrite/1.0.0": {
+        "dependencies": {
+          "LibFiles": "1.0.0"
+        },
+        "runtime": {
+          "FileReadWrite.dll": {}
+        }
+      },
+      "LibFiles/1.0.0": {
+        "runtime": {
+          "LibFiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileReadWrite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

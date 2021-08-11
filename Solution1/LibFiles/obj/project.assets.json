@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "LibFiles/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/LibFiles.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LibFiles.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "LibFiles/1.0.0": {
-      "type": "project",
-      "path": "../LibFiles/LibFiles.csproj",
-      "msbuildProject": "../LibFiles/LibFiles.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "LibFiles >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\martin\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\FileReadWrite\\FileReadWrite.csproj",
-      "projectName": "FileReadWrite",
-      "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\FileReadWrite\\FileReadWrite.csproj",
+      "projectUniqueName": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\LibFiles.csproj",
+      "projectName": "LibFiles",
+      "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\LibFiles.csproj",
       "packagesPath": "C:\\Users\\martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\FileReadWrite\\obj\\",
+      "outputPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,11 +37,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\LibFiles.csproj": {
-              "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\LibFiles.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
