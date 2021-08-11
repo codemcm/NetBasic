@@ -21,10 +21,10 @@ namespace FileReadWrite
             //crear nombreArchivoLog
             string fileNameLog = archivo.CreateNameForLog("Log", archivo.GetActualDate());
             //crear LogFile
-            archivo.CreateArchivo(fileNameLog, "texto del log");
+            archivo.EscribeAlFinal(fileNameLog);
             //archivo.LeerArchivo(rutaArchivo);
             //archivo.EscribeAlFinal(rutaArchivo);
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
         }
     }
 }

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileReadWrite", "FileReadWr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFiles", "LibFiles\LibFiles.csproj", "{BDB01EE4-99E9-4131-AC0C-35556E3D92A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRestNC", "SimpleRestNC\SimpleRestNC.csproj", "{96A5A33B-4197-4862-9D1F-14E2F6B5BC37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BDB01EE4-99E9-4131-AC0C-35556E3D92A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB01EE4-99E9-4131-AC0C-35556E3D92A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB01EE4-99E9-4131-AC0C-35556E3D92A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A5A33B-4197-4862-9D1F-14E2F6B5BC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A5A33B-4197-4862-9D1F-14E2F6B5BC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A5A33B-4197-4862-9D1F-14E2F6B5BC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A5A33B-4197-4862-9D1F-14E2F6B5BC37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
