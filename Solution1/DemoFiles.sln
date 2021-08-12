@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibFiles", "LibFiles\LibFil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleRestNC", "SimpleRestNC\SimpleRestNC.csproj", "{96A5A33B-4197-4862-9D1F-14E2F6B5BC37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTODemo", "DTODemo\DTODemo.csproj", "{1DBB5179-84AE-4814-8A4E-FD378C51C6FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTODemo", "DTODemo\DTODemo.csproj", "{1DBB5179-84AE-4814-8A4E-FD378C51C6FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{790DF361-E91C-4929-9D14-CB8CD67DBFD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{790DF361-E91C-4929-9D14-CB8CD67DBFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientBaseDeDatos", "ClientBaseDeDatos\ClientBaseDeDatos.csproj", "{2FBCB1FC-7813-45A2-A539-F15AEC96F1B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{790DF361-E91C-4929-9D14-CB8CD67DBFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{790DF361-E91C-4929-9D14-CB8CD67DBFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{790DF361-E91C-4929-9D14-CB8CD67DBFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBCB1FC-7813-45A2-A539-F15AEC96F1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBCB1FC-7813-45A2-A539-F15AEC96F1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBCB1FC-7813-45A2-A539-F15AEC96F1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBCB1FC-7813-45A2-A539-F15AEC96F1B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

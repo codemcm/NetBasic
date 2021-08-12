@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\ClientBaseDeDatos\\ClientBaseDeDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\ClientBaseDeDatos\\ClientBaseDeDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DataLayer\\DataLayer.csproj",
-        "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\ClientBaseDeDatos\\ClientBaseDeDatos.csproj",
+        "projectName": "ClientBaseDeDatos",
+        "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\ClientBaseDeDatos\\ClientBaseDeDatos.csproj",
         "packagesPath": "C:\\Users\\martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\ClientBaseDeDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
@@ -45,12 +45,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
