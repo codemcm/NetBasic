@@ -1,0 +1,12 @@
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DataLayer\obj\Debug\net5.0\DataLayer.pdb

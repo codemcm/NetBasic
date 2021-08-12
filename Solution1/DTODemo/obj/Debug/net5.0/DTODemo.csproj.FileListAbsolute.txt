@@ -1,0 +1,12 @@
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\bin\Debug\net5.0\DTODemo.deps.json
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\bin\Debug\net5.0\DTODemo.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\bin\Debug\net5.0\ref\DTODemo.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\bin\Debug\net5.0\DTODemo.pdb
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.csproj.AssemblyReference.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.AssemblyInfoInputs.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.AssemblyInfo.cs
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\ref\DTODemo.dll
+C:\Users\martin\Documents\misRepositorios\NetBasic\Solution1\DTODemo\obj\Debug\net5.0\DTODemo.pdb

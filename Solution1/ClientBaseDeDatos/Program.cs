@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DTODemo;
+using System;
 
 namespace ClientBaseDeDatos
 {
@@ -6,7 +7,12 @@ namespace ClientBaseDeDatos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Persona persona = new Persona();
+            persona.Nombre = "Martin2";
+            PersonaLogic personaLogic = new PersonaLogic();
+            int rows =personaLogic.Registrar(persona);
+            ;
+            Console.WriteLine(personaLogic.mensajeExito(rows));
         }
     }
 }
