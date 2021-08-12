@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\LibFiles.csproj",
-      "projectName": "LibFiles",
-      "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\LibFiles.csproj",
+      "projectUniqueName": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DTODemo\\DTODemo.csproj",
+      "projectName": "DTODemo",
+      "projectPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DTODemo\\DTODemo.csproj",
       "packagesPath": "C:\\Users\\martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\LibFiles\\obj\\",
+      "outputPath": "C:\\Users\\martin\\Documents\\misRepositorios\\NetBasic\\Solution1\\DTODemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
